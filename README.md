@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TrunksIV
 - 👀 I’m interested in building awesome projects
-- 🌱 I’m currently learning Information Technology at Chinhoyi University of Technology
-- 💞️ I’m looking to collaborate on python and react js projects
+- 🌱 I’m currently hold a Bachelors Degree in Information Technology
+- 💞️ I’m open to collaborate on python, angular,Flutter,express,Spring and react js projects
 - 📫 How to reach me chimutopotariro@gmail.com
 
 <!---
